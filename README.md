@@ -1,4 +1,4 @@
-# Seatle_Airbnb_Project
+# Seattle_Airbnb_Project
 
 ## This project aims to answer three important questions for Airbnb investors in Seattle:
 
