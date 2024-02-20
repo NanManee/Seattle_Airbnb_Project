@@ -2,9 +2,9 @@
 
 ## This project aims to answer three important questions for Airbnb investors in Seattle:
 
-1.What are the top three locations for Airbnb rentals?
-2.What are the most popular months of the year for rentals?
-3.Which types of bedrooms generate the highest revenue per year?
+- What are the top three locations for Airbnb rentals?
+- What are the most popular months of the year for rentals?
+- Which types of bedrooms generate the highest revenue per year?
 
 
 ## Insights for Question #1:
@@ -25,20 +25,20 @@ The most popular months of the year for rentals are:
 ## Insights for question #3:
 
 The average price per bedroom per night:
-1 bedroom = $96
-2 bedrooms = $175
-3 bedrooms = $250
-4 bedrooms = $315
-5 bedrooms = $450
-6 bedrooms = $565
+- 1 bedroom = $96
+- 2 bedrooms = $175
+- 3 bedrooms = $250
+- 4 bedrooms = $315
+- 5 bedrooms = $450
+- 6 bedrooms = $565
 
 The types of bedrooms that generate the highest revenue per year:
-1 bedroom = Approximately $63 million
-2 bedrooms = Approximately $31 million
-3 bedrooms = Approximately $18 million
-4 bedrooms = Approximately $6 million
-5 bedrooms = Approximately $3 million
-6 bedrooms = Approximately $1 million
+- 1 bedroom = Approximately $63 million
+- 2 bedrooms = Approximately $31 million
+- 3 bedrooms = Approximately $18 million
+- 4 bedrooms = Approximately $6 million
+- 5 bedrooms = Approximately $3 million
+- 6 bedrooms = Approximately $1 million
 
 
 ## Recommendations:
