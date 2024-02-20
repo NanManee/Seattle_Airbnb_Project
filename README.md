@@ -47,7 +47,7 @@ I would recommend investing in a one-bedroom Airbnb rental. Although six-bedroom
 
 The best location would be the 98134 zip code, situated on Elliott Bay and the Duwamish Waterway, next to downtown Seattle. The average nightly revenue for room rentals is $206, the highest compared to other locations.
 
-The prime time to maximize revenue is between May and June. During these months, Seattle's temperatures begin to warm up, and the city experiences longer daylight hours, creating pleasant weather conditions that attract outdoor activities, events, conferences, and tourism. Additionally, November and December are optimal for renting out Airbnb properties due to the holiday season, which sees increased shopping activity, tourism, and events, making them busy months for the city.
+The prime time to maximize revenue is between May and June. During these months, Seattle's temperatures begin to warm up to the an average of 68 degrees, and the city experiences longer daylight hours, creating pleasant weather conditions that attract outdoor activities, events, conferences, and tourism. Additionally, November and December are optimal for renting out Airbnb properties due to the holiday season, which sees increased shopping activity, tourism, and events, making them busy months for the city.
 
 ## Tableau Dashboard for Visualization: 
 https://public.tableau.com/app/profile/nanthawan.maneethong/viz/SeattleAirBnB_17084464300200/Dashboard4
