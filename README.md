@@ -1,10 +1,53 @@
 # Seattle_Airbnb_Project
+Last dataset updated: December 20, 2023
 
-## This project aims to answer three important questions for Airbnb investors in Seattle:
+Data Source: Inside Airbnb.com, the place that gather data and advocate for awareness regarding how Airbnb affects neighborhoods where people live.
+Inside Airbnb.com goal is to empower communities by providing them with data and information. This way, Seattle communities can better understand, make decisions about, and manage the practice of renting residential properties to tourists.
+
+## Project Overview
+
+In this project, I cleaned, analyzed and visualized Seattle airbnb listing to Identify how much money is spent on daily activities and feeding using Microsoft excel.
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/60c0824a-7337-44fc-bd48-70b6f2b3c42f)
+
+## Methodology
+
+Data from Excel tables is first cleaned up using Power Query. Then, it is put into Excel Power Pivot to organize it. From there, I make charts and PivotTables to show the information.
+
+## This project aims to answer the following questions for Airbnb investors in Seattle:
 
 - What are the top three locations for Airbnb rentals?
 - What are the most popular months of the year for rentals?
 - Which types of bedrooms generate the highest revenue per year?
+
+## Inspecting dataset
+
+- The dataset contains 18 columns and 6,883 rows including column names.
+- I copy this raw file for backup purposes.
+  
+## Data Cleaning
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/f9a55467-dedd-4ff2-8692-22ae00ec57cf)
+
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/314fb483-5afb-4399-9a7b-dc0880e12150)
+
+## Column Checking
+
+- I add filters to all columns instead of formatting this data in a table, which would have taken me more time.
+
+## Check and Remove Duplicates
+
+- I select the whole table and check for duplicate values.
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/170b2e0a-dbee-4b9f-90de-4d8786e8d23e)
+
+## Check and Remove Null Values
+
+- 
+
+- 
+
+
+
+
+
 
 
 ## Insights for Question #1:
@@ -49,5 +92,6 @@ The best location would be the 98134 zip code, situated on Elliott Bay and the D
 
 The prime time to maximize revenue is between May and June. During these months, Seattle's temperatures begin to warm up to the an average of 68 degrees, and the city experiences longer daylight hours, creating pleasant weather conditions that attract outdoor activities, events, conferences, and tourism. Additionally, November and December are optimal for renting out Airbnb properties due to the holiday season, which sees increased shopping activity, tourism, and events, making them busy months for the city.
 
+## Data Source: http://insideairbnb.com/get-the-data
 ## Tableau Dashboard for Visualization: 
 https://public.tableau.com/app/profile/nanthawan.maneethong/viz/SeattleAirBnB_17084464300200/Dashboard4
