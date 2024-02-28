@@ -42,8 +42,10 @@ Data from Excel tables is first cleaned up using Power Query. Then, it is put in
 
 - 
 
-- 
+## Find and Replace values
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/459350a8-fd93-4a16-9333-330130baa46e)
 
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/a1dbdbbb-48dc-4a63-8d10-2c631e97b76f)
 
 
 
