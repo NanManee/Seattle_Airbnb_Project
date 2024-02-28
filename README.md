@@ -52,6 +52,25 @@ Fix column "Name"
 - Clean data and create new columns
 ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/a1dbdbbb-48dc-4a63-8d10-2c631e97b76f)
 
+## Standardize text
+- Using Proper function
+
+  ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/4031629e-c6ee-404b-b179-e4e2a54a598f)
+
+- Using Upper function
+
+  ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/256e821c-3223-49e4-ae89-c3df9f9cc7ef)
+
+
+## Find and Replace
+- I replaced 'Studio' with '0' to represent a specific type of studio and a different category altogether compared to '1', which represents 'One bedroom' in this analysis
+  ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/0a76d023-f17a-4437-85d4-e31a183b38a4)
+
+## Trim function to make sre that there's no extra space the entire column
+
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/2bdeed4e-37c2-447b-8a08-eed02e0fb02f)
+
+
 
 
 
