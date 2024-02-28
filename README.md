@@ -46,8 +46,10 @@ Data from Excel tables is first cleaned up using Power Query. Then, it is put in
 Fix column "Name"
 ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/053ac48a-4d43-4372-9972-cf06e6be0752)
 
+
 ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/459350a8-fd93-4a16-9333-330130baa46e)
 
+- Clean data and create new columns
 ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/a1dbdbbb-48dc-4a63-8d10-2c631e97b76f)
 
 
