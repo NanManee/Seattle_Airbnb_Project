@@ -70,10 +70,15 @@ Fix column "Name"
 
 ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/2bdeed4e-37c2-447b-8a08-eed02e0fb02f)
 
+Manually fix wrong column data 
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/bd493dd9-eed8-48ef-8a30-326df8521c7f)
 
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/9ab36750-f3b2-4826-8fcf-dbb79133b986)
 
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/a010835c-2259-4129-a41c-a1d213aa31d7)
 
-
+- change home in seattle to Home
+  ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/4232b6df-0c10-4712-a28d-6f240b087401)
 
 
 ## Insights for Question #1:
