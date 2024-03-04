@@ -38,17 +38,15 @@ The dataset contains 18 columns and 6,883 rows, including column names.
 
 ## Check and Remove Duplicates
 
-- I select the whole table and check for duplicate values.
+- I selected the whole table and checked for duplicate values.
 
   
 ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/170b2e0a-dbee-4b9f-90de-4d8786e8d23e)
 
 
 ## Check and Remove Null Values
-
-- I selected the whole table and checked for duplicate values.
-
-## Find and Replace values and Fix column "Name"
+## Find and Replace values 
+## Change the column name from 'Name' to 'Airbnb Type' for more clarification
 
 
 ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/053ac48a-4d43-4372-9972-cf06e6be0752)
