@@ -16,7 +16,7 @@ Data from Excel tables is first cleaned up using Power Query. Then, it is put in
 ## This project aims to answer the following questions for Airbnb investors in Seattle:
 
 - What are the top three locations for Airbnb rentals?
-- What are the most popular months of the year for rentals?
+- What are the most popular Airbnb type for rentals?
 - Which types of bedrooms generate the highest revenue per year?
 
 ## Inspecting dataset
