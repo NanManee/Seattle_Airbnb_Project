@@ -81,48 +81,36 @@ Manually fix wrong column data
   ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/4232b6df-0c10-4712-a28d-6f240b087401)
 
 
-## Insights for Question #1:
-
-All of the top three prime areas are located in Western Washington:
-- 98134: The average nightly revenue for room rentals is $206. This area is situated on beautiful Elliott Bay and the Duwamish Waterway, next to downtown Seattle.
-- 98119: The average nightly revenue for room rentals is $171. This area is located between Elliott Bay and Lake Union, very close to downtown.
-- 98101: The average nightly revenue for room rentals is $167. This area is in downtown Seattle with easy access to Elliott Bay.
-  
-
-## Insights for question #2:
-
-The most popular months of the year for rentals are:
-- During May and June, it's late spring and early summer. During these months, temperatures in Seattle begin to warm up, and the city experiences longer daylight hours. It offers pleasant weather conditions, making it a popular time for outdoor activities, events, conferences, and tourism.
-- During November and December, it's the holiday season, which sees increased shopping activity, tourism, and events, making them busy months for the city.
-  
-
-## Insights for question #3:
-
-The average price per bedroom per night:
-- 1 bedroom = $96
-- 2 bedrooms = $175
-- 3 bedrooms = $250
-- 4 bedrooms = $315
-- 5 bedrooms = $450
-- 6 bedrooms = $565
-
-The types of bedrooms that generate the highest revenue per year:
-- 1 bedroom = Approximately $63 million
-- 2 bedrooms = Approximately $31 million
-- 3 bedrooms = Approximately $18 million
-- 4 bedrooms = Approximately $6 million
-- 5 bedrooms = Approximately $3 million
-- 6 bedrooms = Approximately $1 million
-
-
 ## Recommendations:
 
-I would recommend investing in a one-bedroom Airbnb rental. Although six-bedroom rentals generate the most revenue per night at $585, while one-bedroom rentals only earn $96 per night, the frequency of one-bedroom rentals significantly contributes to the highest revenue per year, approximately $63 million compared to the six-bedroom's $1 million per year. When considering the minimum room rental for a one-bedroom per year, it's about $1.5 million versus approximately $5,500 for a six-bedroom.
+Findings and Recommendations:
 
-The best location would be the 98134 zip code, situated on Elliott Bay and the Duwamish Waterway, next to downtown Seattle. The average nightly revenue for room rentals is $206, the highest compared to other locations.
+Location to Invest:
+Greenwood, Madrona, and Fremont: These neighborhoods have the highest average Airbnb prices, indicating strong demand from travelers. Greenwood and Fremont are commercial hubs, while Madrona is mostly residential. Consider investing in properties in these areas for potentially higher returns. (Reference chart 1)
 
-The prime time to maximize revenue is between May and June. During these months, Seattle's temperatures begin to warm up to the an average of 68 degrees, and the city experiences longer daylight hours, creating pleasant weather conditions that attract outdoor activities, events, conferences, and tourism. Additionally, November and December are optimal for renting out Airbnb properties due to the holiday season, which sees increased shopping activity, tourism, and events, making them busy months for the city.
+View Ridge, Meadowbrook, and North Beacon Hill: These neighborhoods have the lowest vacancy rates, suggesting consistent demand. Despite having fewer listings, View Ridge and Meadowbrook exhibit low annual vacancy rates, making them attractive investment options. North Beacon Hill, with its higher number of listings, also maintains a low vacancy rate, indicating steady demand(Reference chart 6).
+
+Location to Avoid:
+South Lake Union, Yesler Terrace, and Eastlake: These neighborhoods have the highest vacancy rates, indicating lower demand or other factors affecting rental availability. It's recommended to avoid investing in properties in these areas for now 
+(Reference chart 8).
+
+Number of Bedrooms to Invest In:
+One-bedroom units: These units generate the most revenue annually among different bedroom types, indicating strong demand. Consider investing in one-bedroom properties, which have an average price per night of $115 and can yield an average annual revenue at $360,000 (Reference chart 4). The average vacancy per year for one-bedroom listings is 176 days out of a total of 3,210 listings.(Reference chart 7). 
+
+Two-bedroom and Three-bedroom units: These units also generate significant revenue, with two-bedroom units earning $280,000 a year and three-bedroom units bringing in $226,000 a year. Evaluate the demand and supply dynamics in your chosen location before investing in properties with these bedroom configurations. The average vacancy per year for two-bedroom listings is 164 days out of a total of 1,649 listings, and for three-bedroom listings, it is 174 days out of a total of 871 listings(Reference chart 7). 
+
+Types of Airbnb to Invest In:
+Entire homes or entire apartment: Most renters prioritize privacy and are willing to pay more to rent an entire property rather than a shared or private room. Properties with higher average daily rates, such as entire homes or apartments, can generate significant revenue, potentially over a million dollars a year(Reference chart 3).
+Homes: are the most popular choice on Airbnb and also have the highest average prices at $201(Reference chart 2 and chart 5).
+
+Additional Considerations:
+Industrial District: Although not initially recommended due to limited data, consider conducting further research on this location. The Industrial District has the highest average Airbnb price due to its unique characteristics, such as limited listings and longer minimum stay requirements. Investigate the potential for investment opportunities in this area(Reference chart 1).
+
+
+Before making any investment decisions, we need to do more research on the market conditions, regulations, and potential risks associated with each location. Additionally, consider factors such as property management, maintenance costs, and potential changes in travel trends that may impact your investment.
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/fb848ba5-91f5-4f69-8e55-59bb65ff17a0)
+
 
 ## Data Source: http://insideairbnb.com/get-the-data
-## Tableau Dashboard for Visualization: 
-https://public.tableau.com/app/profile/nanthawan.maneethong/viz/SeattleAirBnB_17084464300200/Dashboard4
+## Excel Dashboard for Visualization: 
+https://1drv.ms/x/c/96c30430437a9e89/EU6Zdfyro1BFjqjg_SfHmdgBiDgO912XeMz1njWpNs0U2Q?e=R8iYi1d4
