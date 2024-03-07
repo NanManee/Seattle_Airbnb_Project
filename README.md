@@ -2,30 +2,34 @@
 
 ![Screenshot 2024-02-02 170528](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/1635fe20-b133-4d13-a2c3-faefa013f666)
 
+### Introduction
 
-Data Source: Inside Airbnb.com
+In the vibrant city of Seattle, the Airbnb market has become an integral part of the local tourism and hospitality landscape. This project sets out to analyze Seattle's Airbnb data from 2014 to 2023, aiming to uncover insights that will help investors identify the most optimal locations and accommodation types for their Airbnb ventures. By examining patterns, occupancy rates, and revenue figures, this project seeks to pinpoint investment opportunities that offer the highest returns. Utilizing Microsoft Excel, to reveal the most frequently rented Airbnb accommodation types and the areas within Seattle that not only attract the most guests but also generate the most revenue.
 
-Inside Airbnb.com goal is to empower communities by providing them with data and information. This way, Seattle communities can better understand, make decisions about, and manage the practice of renting residential properties to tourists.
-
-## Project Overview
-
-In this project, I cleaned, analyzed, and visualized Seattle Airbnb listings to identify insights and provide recommendations for Seattle Airbnb investors using Microsoft Excel.
-
-
-![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/60c0824a-7337-44fc-bd48-70b6f2b3c42f)
-
-
-## This project aims to answer the following questions for Airbnb investors in Seattle:
+### Questions to Anwers
 
 - What are the top three locations for Airbnb rentals?
 - What are the most popular Airbnb type for rentals?
 - Which types of bedrooms generate the highest average revenue per year?
 
-## Inspecting dataset
+### Data Source
+
+Inside Airbnb.com: http://insideairbnb.com/get-the-data
+
+Last updated: December 20, 2023
+
+Inside Airbnb.com goal is to empower communities by providing them with data and information. This way, Seattle communities can better understand, make decisions about, and manage the practice of renting residential properties to tourists.
+
+### Tools
+
+Microsoft Excel - Data Cleaning, Data Analysis and Data visualization
+
+![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/60c0824a-7337-44fc-bd48-70b6f2b3c42f)
+
+
+### Inspecting dataset
 
 The dataset contains 18 columns and 6,883 rows, including column names.
-  
-## Data Cleaning
 
 ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/f9a55467-dedd-4ff2-8692-22ae00ec57cf)
 
@@ -129,6 +133,5 @@ Before making any investment decisions, we need to do more research on the marke
 https://1drv.ms/x/c/96c30430437a9e89/EU6Zdfyro1BFjqjg_SfHmdgBiDgO912XeMz1njWpNs0U2Q?e=R8iYi1d4
 
 
-## Data Source: http://insideairbnb.com/get-the-data
-Last dataset updated: December 20, 2023
+
 
