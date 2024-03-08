@@ -37,7 +37,8 @@ Microsoft Excel - Data Cleaning, Data Analysis and Data visualization
 
 ### Inspecting dataset
 
-The dataset contains 18 columns and 6,883 rows, including column names.
+- The dataset contains 18 columns and 6,883 rows, including column names.
+- Apply Filter for all columns
 
 ![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/f9a55467-dedd-4ff2-8692-22ae00ec57cf)
 
@@ -102,13 +103,22 @@ The dataset contains 18 columns and 6,883 rows, including column names.
 
 ### Create Pivot Tables and Pivot Charts
 
+![image](https://github.com/NanManee/Seattle_Airbnb_Project_2014-2023/assets/156528525/5d7b3343-7016-4652-b80c-41489bb62197)
+
+
+
+### Microsoft Excel Dashboard for Visualization:
+
+https://1drv.ms/x/c/96c30430437a9e89/EU6Zdfyro1BFjqjg_SfHmdgBiDgO912XeMz1njWpNs0U2Q?e=tN9tnB
+
+
 ### Findings and Recommendations:
 
 ### Location to Invest:
 
-Greenwood, Madrona, and Fremont: These neighborhoods have the highest average Airbnb prices, indicating strong demand from travelers. Greenwood and Fremont are commercial hubs, while Madrona is mostly residential. Consider investing in properties in these areas for potentially higher returns. (Reference chart 1)
+- Greenwood, Madrona, and Fremont: These neighborhoods have the highest average Airbnb prices, indicating strong demand from travelers. Greenwood and Fremont are commercial hubs, while Madrona is mostly residential. Consider investing in properties in these areas for potentially higher returns. (Reference chart 1)
 
-View Ridge, Meadowbrook, and North Beacon Hill: These neighborhoods have the lowest vacancy rates, suggesting consistent demand. Despite having fewer listings, View Ridge and Meadowbrook exhibit low annual vacancy rates, making them attractive investment options. North Beacon Hill, with its higher number of listings, also maintains a low vacancy rate, indicating steady demand(Reference chart 6).
+- View Ridge, Meadowbrook, and North Beacon Hill: These neighborhoods have the lowest vacancy rates, suggesting consistent demand. Despite having fewer listings, View Ridge and Meadowbrook exhibit low annual vacancy rates, making them attractive investment options. North Beacon Hill, with its higher number of listings, also maintains a low vacancy rate, indicating steady demand(Reference chart 6).
 
 ### Location to Avoid:
 South Lake Union, Yesler Terrace, and Eastlake: These neighborhoods have the highest vacancy rates, indicating lower demand or other factors affecting rental availability. It's recommended to avoid investing in properties in these areas for now 
@@ -117,9 +127,9 @@ South Lake Union, Yesler Terrace, and Eastlake: These neighborhoods have the hig
 
 ### Number of Bedrooms to Invest In:
 
-One-bedroom units: These units generate the most revenue annually among different bedroom types, indicating strong demand. Consider investing in one-bedroom properties, which have an average price per night of $115 and can yield an average annual revenue at $360,000 (Reference chart 4). The average vacancy per year for one-bedroom listings is 176 days out of a total of 3,210 listings.(Reference chart 7). 
+- One-bedroom units: These units generate the most revenue annually among different bedroom types, indicating strong demand. Consider investing in one-bedroom properties, which have an average price per night of $115 and can yield an average annual revenue at $360,000 (Reference chart 4). The average vacancy per year for one-bedroom listings is 176 days out of a total of 3,210 listings.(Reference chart 7). 
 
-Two-bedroom and Three-bedroom units: These units also generate significant revenue, with two-bedroom units earning $280,000 a year and three-bedroom units bringing in $226,000 a year. Evaluate the demand and supply dynamics in your chosen location before investing in properties with these bedroom configurations. The average vacancy per year for two-bedroom listings is 164 days out of a total of 1,649 listings, and for three-bedroom listings, it is 174 days out of a total of 871 listings(Reference chart 7). 
+- Two-bedroom and Three-bedroom units: These units also generate significant revenue, with two-bedroom units earning $280,000 a year and three-bedroom units bringing in $226,000 a year. Evaluate the demand and supply dynamics in your chosen location before investing in properties with these bedroom configurations. The average vacancy per year for two-bedroom listings is 164 days out of a total of 1,649 listings, and for three-bedroom listings, it is 174 days out of a total of 871 listings(Reference chart 7). 
 
 
 ### Types of Airbnb to Invest In:
@@ -130,11 +140,9 @@ Homes: are the most popular choice on Airbnb and also have the highest average p
 
 ### Additional Considerations:
 
-Industrial District: Although not initially recommended due to limited data, consider conducting further research on this location. The Industrial District has the highest average Airbnb price due to its unique characteristics, such as limited listings and longer minimum stay requirements. Investigate the potential for investment opportunities in this area(Reference chart 1).
+- Industrial District: Although not initially recommended due to limited data, consider conducting further research on this location. The Industrial District has the highest average Airbnb price due to its unique characteristics, such as limited listings and longer minimum stay requirements. Investigate the potential for investment opportunities in this area(Reference chart 1).
 
 
-Before making any investment decisions, we need to do more research on the market conditions, regulations, and potential risks associated with each location. Additionally, consider factors such as property management, maintenance costs, and potential changes in travel trends that may impact your investment.
-
-![image](https://github.com/NanManee/Seattle_Airbnb_Project/assets/156528525/fb848ba5-91f5-4f69-8e55-59bb65ff17a0)
+- Before making any investment decisions, we need to do more research on the market conditions, regulations, and potential risks associated with each location. Additionally, consider factors such as property management, maintenance costs, and potential changes in travel trends that may impact your investment.
 
 
