@@ -4,7 +4,7 @@
 
 ### Introduction
 
-In the vibrant city of Seattle, the Airbnb market has become an integral part of the local tourism and hospitality landscape. This project sets out to analyze Seattle's Airbnb data from 2014 to 2023, aiming to uncover insights that will help investors identify the most optimal locations and accommodation types for their Airbnb ventures. By examining patterns, occupancy rates, and revenue figures, this project seeks to pinpoint investment opportunities that offer the highest returns. Utilizing Microsoft Excel, to reveal the most frequently rented Airbnb accommodation types and the areas within Seattle that not only attract the most guests but also generate the most revenue.
+In the vibrant city of Seattle, the Airbnb market has become an essential part of the local tourism and hospitality landscape. This project sets out to analyze Seattle's Airbnb data from 2014 to 2023, aiming to uncover insights that will help investors identify the most optimal locations and accommodation types for their Airbnb ventures. By examining patterns, occupancy rates, and revenue figures, this project seeks to pinpoint investment opportunities that offer the highest returns. Utilizing Microsoft Excel, to reveal the most frequently rented Airbnb accommodation types and the areas within Seattle that not only attract the most guests but also generate the most revenue.
 
 ### Questions to Anwers
 
