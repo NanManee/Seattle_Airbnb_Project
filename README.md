@@ -13,7 +13,7 @@ In the vibrant city of Seattle, the Airbnb market has become an essential part o
 - To determine the popularity of each accommodation type based on booking frequency and occupancy rates.
 - To provide insights into the top locations for Airbnb rentals, the most popular Airbnb types, and the bedroom types generating the highest average revenue per year.
 
-### Questions to Anwers
+### Questions to Answer
 
 - What are the top three locations for Airbnb rentals?
 - What are the most popular Airbnb type for rentals?
